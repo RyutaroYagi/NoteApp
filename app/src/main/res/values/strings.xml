@@ -3,4 +3,11 @@
     <string name="title">Note Application</string>
     <string name="register">register!</string>
     <string name="memo">memo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_profile">Profile</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="go_fragment_2">Go fragment 2</string>
 </resources>
